@@ -5,11 +5,15 @@
       "port": 2222
     },
     {
-      "id": "MGL700C4",
+      "id": "MGL700C5",
       "port": 3333
     }
   ],
   "profile": {
     "name": "mase"
-  }
+  },
+  "router": [{
+    "id": "MGL700C4",
+    "port": "2222"
+  }]
 }

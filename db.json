@@ -12,9 +12,5 @@
   "profile": {
     "name": "mase"
   },
-  "router": [{
-    "id": "MGL700C4",
-    "port": "2222"
-  }],
   "abc" : 2222
 }
